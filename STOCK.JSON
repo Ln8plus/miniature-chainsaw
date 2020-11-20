@@ -1,0 +1,25 @@
+[
+    {
+    "companyCode": "AAPL",
+    "companyName": "APPLE",
+    "countryCode": "USA",
+        "lastTrade": 110.02,
+        "change": 1.16,
+        "changePercent": 1.07,
+        "prevClose": 108.86,
+        "open": 109.11,
+        "P:E": 33.54  
+    },    
+     {  
+    "companyCode": "NFLX",
+    "companyName": "NETFLIX",
+    "countryCode": "USA",
+        "lastTrade": 479.75,
+        "change": 4.01,
+        "changePercent": -0.84,
+        "prevClose": 475.74,
+        "open": 478.99,
+        "P:E": 77.28
+        
+    }     
+]
