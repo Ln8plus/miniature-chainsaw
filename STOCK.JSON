@@ -3,23 +3,63 @@
     "companyCode": "AAPL",
     "companyName": "APPLE",
     "countryCode": "USA",
-        "lastTrade": 110.02,
-        "change": 1.16,
-        "changePercent": 1.07,
-        "prevClose": 108.86,
-        "open": 109.11,
-        "P:E": 33.54  
+        "lastTrade": "Last Trade at $110.02",
+        "change": "Change $1.16",
+        "changePercent": "Change Percentage 1.07%",
+        "prevClose": "Previous Close $108.86",
+        "open": "Opening $109.11",
+        "P:E": "P/E 33.54" 
+    }, 
+
+    {
+    "companyCode": "MSFT",
+    "companyName": "Microsoft Corp.",
+    "countryCode": "USA",
+        "lastTrade": "Last Trade at $210.48",
+         "change": "Change -$2.03",
+         "changePercent": "Change Percentage -0.96%",
+         "prevClose": "Previous Close $210.39",
+         "open": "Opening $212.20",
+         "P:E": "P/E 33.94" 
+    },
+
+    {
+    "companyCode": "TTM",
+    "companyName": "Tata Motors Ltd.",
+    "countryCode": "IND",
+        "lastTrade": "Last Trade at $11.37",
+        "change": "Change -$0.29",
+        "changePercent": "Change Percentage -2.50%",
+        "prevClose": "Previous Close $11.29",
+        "open": "Opening $11.60",
+        "P:E": "P/E N/A" 
+    },  
+
+    {
+    "companyCode": "TSLA",
+    "companyName": "Tesla Inc.",
+    "countryCode": "USA",
+        "lastTrade": "Last Trade at $490.50",
+        "change": "Change -$9.66",
+        "changePercent": "Change Percentage -1.93%",
+        "prevClose": "Previous Close $489.61",
+        "open": "Opening $497.99",
+        "P:E": "P/E 978.44" 
     },    
+
+
+
+
      {  
     "companyCode": "NFLX",
-    "companyName": "NETFLIX",
+    "companyName": "Netflix Inc.",
     "countryCode": "USA",
-        "lastTrade": 479.75,
-        "change": 4.01,
-        "changePercent": -0.84,
-        "prevClose": 475.74,
-        "open": 478.99,
-        "P:E": 77.28
+        "lastTrade": "Last Trade at $479.75",
+        "change": "Change $4.01",
+        "changePercent": "Change Percentage -0.84%",
+        "prevClose": "Previous Close $475.74",
+        "open": "Opening $478.99",
+        "P:E": "P/E 77.28"
         
     }     
 ]
